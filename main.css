@@ -1,0 +1,27 @@
+@keyframes bruh {
+    0% { background-color: red; }
+    25% { background-color: blue; }
+    50% { background-color: rgb(0, 255, 85); }
+    75% { background-color: blue; }
+    100% { background-color: red; }
+}
+@keyframes bruh1 {
+    0% { color: red; }
+    25% { color: blue; }
+    50% { color: rgb(0, 255, 85); }
+    75% { color: blue; }
+    100% { color: red; }
+}
+
+
+p {
+    font-size: 100px;
+}
+
+#tt {
+    background-color: rgb(255, 0, 0);
+    width: 250px;
+}
+body {
+    background-color: red;
+}
